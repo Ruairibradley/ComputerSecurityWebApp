@@ -1,0 +1,11 @@
+/* Basic custom styling for the Lovejoy web app */
+
+/* Apply a clean, modern system font across the app */
+body {
+  font-family: system-ui, -apple-system, 'Segoe UI', Roboto, Arial, sans-serif;
+}
+
+/* Add a little margin to all main page containers */
+.container {
+  margin-top: 20px;
+}
